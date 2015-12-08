@@ -1,0 +1,21 @@
+P_ID	BookID	Author
+0	1	Mark Twain
+1	2	Vladmir Putin
+2	3	Tom Sawyer
+3	4	Timmy the Train
+4	5	Obama
+5	6	Stephen King
+6	7	George W. Bush
+7	8	Sir Gray of Awesome
+8	9	Duke Kent
+9	10	John Grisham
+10	11	R. A. Salvatore
+11	12	J. R. R. Tolkien
+12	13	C. S. Lewis
+13	14	Bob Williams
+14	15	Alexandre Dumas
+15	16	James Winston
+16	17	Winston Churchill
+17	18	Ronald Reagan
+18	19	William Clinton
+19	20	Bo Jackson

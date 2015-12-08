@@ -1,0 +1,16 @@
+Card Number	Name	Address	Phone
+4299023	Jim Bob	301 Cobblestone Way	235-3659
+4299045	Bubba Gump	345 Stonecave Rd 	235-3655
+4299011	Slim Jim	301 Cobblestone Way	235-3659
+4299092	Fat Boy	7586 Skylight Blvd	556-8863
+4299000	Susan Que	344 Clinton St	556-8864
+4299032	Billy Nelson	5682 Skylight Blvd	556-8865
+4299057	Harry Mann	5682 Drapper Lane	556-8866
+4299072	Maes Hughes	2568 Simpson Ave	556-8867
+4299073	Renton Thursday	2190 Kingstown Way	556-8868
+4299089	Holland Aise	3344 Royal Ct	556-8869
+4299091	Clark Kent	2009 Ingram Rd	556-8870
+4299040	Jeffrey Lewis	1299 Rt 44	556-8871
+4299050	Robert the Bruce	12990 S. Elm St	556-8872
+4299020	Willy Bubble	199 Hollowood Lane	556-8873
+4299015	Bam Bam Bigelow	5664 Royal Payne St	556-8863

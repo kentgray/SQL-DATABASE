@@ -1,0 +1,14 @@
+Publisher_ID	PublisherName	P_Address	P_Phone
+1	CatWoman	1212 Nunya	1-800-290-5589
+2	Darth Vader	909 Darkside	1-800-355-5590
+3	Grand Budapest Prodcuctions	401 Buda	1-800-290-5591
+4	IceMan	9912 Freeze	1-800-290-5592
+5	Joker	8801 Laugh St	1-800-290-5593
+6	Juggernaut	123 XL St	1-800-290-5594
+7	Karma Police	2355 Peace Place	1-800-290-5595
+8	KG Eclectic	7009 Boston Ave	1-800-290-5596
+9	Pearson	230 Avenue of the Americas	1-800-290-5597
+10	Random House	14990 N 15th St	1-800-290-5598
+11	Royal Tennenbaums	199 Broadway	1-800-290-5599
+12	Simon and Schuster	199 5th Ave	1-800-290-5600
+13	Typical House	1799 Pickle St	1-800-290-5601
